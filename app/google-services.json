@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411527148064",
+    "project_id": "bookappointmentg1",
+    "storage_bucket": "bookappointmentg1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411527148064:android:5fc6319c9302149eaec245",
+        "android_client_info": {
+          "package_name": "com.example.bookappointmentg1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgx-5xMuz1uKuKQhcUC6eToLKmuee6RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
